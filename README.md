@@ -7,4 +7,4 @@ Primeiro Servidor Node JS criado em projeto de estudo sobre backend Node Js
 
 ->Para o funcionamento testar as requisições, recomendo o uso de um cliente como o imnsonia ou o postman
 
-->Verifique uma versão mais completa na branch V2 deste projeto.
+->Verifique uma versão mais completa nas <b>branchs V2 e V3 deste projeto.</b>
