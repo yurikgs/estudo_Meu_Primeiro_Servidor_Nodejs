@@ -1,0 +1,16 @@
+{
+  "name": "hcode-node",
+  "version": "1.0.0",
+  "description": "Este é um projeto introdutório para o estudo do node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hcode",
+    "node",
+    "nodejs"
+  ],
+  "author": "Yuri Silva",
+  "license": "ISC"
+}
