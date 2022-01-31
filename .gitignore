@@ -1,0 +1,4 @@
+node_modules/
+/node_modules
+/node_modules/*
+# essas, acima, são 3 formas de dizer que o elemento a ser ignorado é uma pasta 
